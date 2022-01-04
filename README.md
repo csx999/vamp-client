@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="![image](https://user-images.githubusercontent.com/62074710/148082507-0349a582-2f12-4cfc-a384-37d02ab090d6.png)" alt="vamp-client-logo" width="20%"/>
+<img src="![image](https://i.imgur.com/xuGU2yj.png)" alt="vamp-client-logo" width="20%"/>
 </p>
 
 <h1 align="center">Meteor Client</h1>
