@@ -3,7 +3,7 @@
 <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/04/Bat_%28Dungeons%29.gif" alt="vamp-client-logo" width="20%"/>
 </p>
 
-<h1 align="center">Meteor Client</h1>
+<h1 align="center">Vamp Client</h1>
 
 <p align="center">A Minecraft Fabric Utility Mod for the latest Minecraft release.</p>
 
