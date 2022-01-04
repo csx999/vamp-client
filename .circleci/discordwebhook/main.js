@@ -1,5 +1,5 @@
 /*
- * This file is part of the Meteor Client distribution (https://github.com/MeteorDevelopment/meteor-client/).
+ * This file is part of the Meteor Client distribution (https://github.com/MeteorDevelopment/vamp/).
  * Copyright (c) 2021 Meteor Development.
  */
 
@@ -26,13 +26,13 @@ axios
         for (let i in res.data.commits) {
             let commit = res.data.commits[i]
 
-            changes += "\n- [`" + commit.sha.substring(0, 7) + "`](https://github.com/MeteorDevelopment/meteor-client/commit/" + commit.sha + ") *" + commit.commit.message + "*"
+            changes += "\n- [`" + commit.sha.substring(0, 7) + "`](https://github.com/MeteorDevelopment/vamp/commit/" + commit.sha + ") *" + commit.commit.message + "*"
             hasChanges = true
         }
         if (hasChanges) description += changes
 
         if (success) {
-            description += "\n\n**Download:** [meteor-client-" + version + "-" + build + "](" + downloadUrl + ")"
+            description += "\n\n**Download:** [vamp-" + version + "-" + build + "](" + downloadUrl + ")"
         }
 
         const webhook = {

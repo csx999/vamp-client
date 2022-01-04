@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://meteorclient.com/icon.png" alt="meteor-client-logo" width="20%"/>
+<img src="https://meteorclient.com/icon.png" alt="vamp-logo" width="20%"/>
 </p>
 
 <h1 align="center">Meteor Client</h1>
@@ -12,15 +12,15 @@
     <br>
     <a href="https://discord.gg/bBGQZvd"><img src="https://img.shields.io/discord/689197705683140636?logo=discord" alt="Discord"/></a>
     <br><br>
-    <img src="https://img.shields.io/github/last-commit/MeteorDevelopment/meteor-client" alt="GitHub last commit"/>
-    <img src="https://img.shields.io/github/commit-activity/w/MeteorDevelopment/meteor-client" alt="GitHub commit activity"/>
+    <img src="https://img.shields.io/github/last-commit/MeteorDevelopment/vamp" alt="GitHub last commit"/>
+    <img src="https://img.shields.io/github/commit-activity/w/MeteorDevelopment/vamp" alt="GitHub commit activity"/>
     <br>
-    <img src="https://img.shields.io/github/languages/code-size/MeteorDevelopment/meteor-client" alt="GitHub code size in bytes"/>
-    <img src="https://tokei.rs/b1/github/MeteorDevelopment/meteor-client" alt="GitHub lines of code"/>
-    <img src="https://img.shields.io/github/contributors/MeteorDevelopment/meteor-client" alt="GitHub contributors"/>
+    <img src="https://img.shields.io/github/languages/code-size/MeteorDevelopment/vamp" alt="GitHub code size in bytes"/>
+    <img src="https://tokei.rs/b1/github/MeteorDevelopment/vamp" alt="GitHub lines of code"/>
+    <img src="https://img.shields.io/github/contributors/MeteorDevelopment/vamp" alt="GitHub contributors"/>
     <br>
-    <img src="https://www.codefactor.io/repository/github/meteordevelopment/meteor-client/badge" alt="CodeFactor"/>
-    <img src="https://circleci.com/gh/MeteorDevelopment/meteor-client/tree/master.svg?style=shield" alt="CircleCI"/>
+    <img src="https://www.codefactor.io/repository/github/meteordevelopment/vamp/badge" alt="CodeFactor"/>
+    <img src="https://circleci.com/gh/MeteorDevelopment/vamp/tree/master.svg?style=shield" alt="CircleCI"/>
 </div>
 
 ## Usage
@@ -30,13 +30,13 @@
 - Run `./gradlew build`
 
 ### Installation
-Follow guide on the [wiki](https://github.com/MeteorDevelopment/meteor-client/wiki/Installation).
+Follow guide on the [wiki](https://github.com/MeteorDevelopment/vamp/wiki/Installation).
 
 ## Contributions
-See [CONTRIBUTING.md](https://github.com/MeteorDevelopment/meteor-client/blob/master/CONTRIBUTING.md)
+See [CONTRIBUTING.md](https://github.com/MeteorDevelopment/vamp/blob/master/CONTRIBUTING.md)
 
 ## Bugs and Suggestions
-Bug reports and suggestions should be made in this repo's [issue tracker](https://github.com/MeteorDevelopment/meteor-client/issues) using the templates provided. Please provide as much information as you can to best help us understand your issue and give a better chance of it being resolved.
+Bug reports and suggestions should be made in this repo's [issue tracker](https://github.com/MeteorDevelopment/vamp/issues) using the templates provided. Please provide as much information as you can to best help us understand your issue and give a better chance of it being resolved.
 
 ## Donations
 All of our work is completely free and non-profit, therefore we are very grateful for all donations made to help support us running our community. All of the money made through donations is used to pay for our servers, none of it is taken for profit.
@@ -58,4 +58,4 @@ If you use **ANY** code from the source:
 - Your application must also be licensed under the same license.
 
 
-*If you have any other questions, check our [FAQ](https://github.com/MeteorDevelopment/meteor-client/wiki).*
+*If you have any other questions, check our [FAQ](https://github.com/MeteorDevelopment/vamp/wiki).*

@@ -1,0 +1,14 @@
+{
+  "required": false,
+  "package": "vampdev.vampclient.mixin.sodium",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "LightDataAccessMixin",
+    "SodiumBlockOcculsionCacheMixin",
+    "SodiumBlockRendererMixin",
+    "SodiumFluidRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

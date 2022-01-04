@@ -54,7 +54,7 @@ dependencies {
 }
 
 loom {
-    accessWidenerPath = file("src/main/resources/meteor-client.accesswidener")
+    accessWidenerPath = file("src/main/resources/vamp.accesswidener")
 }
 
 shadowJar {
@@ -75,7 +75,7 @@ jar {
 	from "LICENSE"
 
 	manifest {
-		attributes("Main-Class": "meteordevelopment.meteorclient.Main")
+		attributes("Main-Class": "vampdev.vampclient.Main")
 	}
 }
 
@@ -101,7 +101,7 @@ task javadocJar(type: Jar) {
 publishing {
     publications {
         java(MavenPublication) {
-            artifactId = "meteor-client"
+            artifactId = "vamp"
             version = System.getenv("CIRCLE_BUILD_NUM") == null ? project.mod_version : "SNAPSHOT"
 
             artifact(remapJar) {
