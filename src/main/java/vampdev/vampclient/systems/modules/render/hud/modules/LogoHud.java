@@ -24,10 +24,10 @@ public class LogoHud extends HudElement {
         .build()
     );
 
-    private final Identifier TEXTURE = new Identifier("vamp", "textures/meteor.png");
+    private final Identifier TEXTURE = new Identifier("vamp", "textures/vamp.png");
 
     public LogoHud(HUD hud) {
-        super(hud, "logo", "Shows the Meteor logo in the HUD.");
+        super(hud, "logo", "Shows the Vamp logo in the HUD.");
     }
 
     @Override

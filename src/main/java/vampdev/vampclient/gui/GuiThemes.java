@@ -3,7 +3,8 @@
 package vampdev.vampclient.gui;
 
 import vampdev.vampclient.VampClient;
-import vampdev.vampclient.gui.themes.meteor.MeteorGuiTheme;
+import vampdev.vampclient.gui.themes.meteor.VampGuiTheme;
+import vampdev.vampclient.gui.themes.vamp.MeteorGuiTheme;
 import vampdev.vampclient.utils.Init;
 import vampdev.vampclient.utils.InitStage;
 import net.minecraft.nbt.NbtCompound;
@@ -26,6 +27,7 @@ public class GuiThemes {
     @Init(stage = InitStage.Pre)
     public static void init() {
         add(new MeteorGuiTheme());
+        add(new VampGuiTheme());
     }
 
     @Init(stage = InitStage.Post)
@@ -40,7 +42,7 @@ public class GuiThemes {
             }
         }
 
-        if (theme == null) select("Meteor");
+        if (theme == null) select("Vamp");
     }
 
     public static void add(GuiTheme theme) {

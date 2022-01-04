@@ -3,7 +3,7 @@
   "name": "Vamp Client",
   "id": "vamp",
   "version": "${version}",
-  "description": "Based utility mod.",
+  "description": "Utility mod.",
   "authors": [
     "vampdev team"
   ],

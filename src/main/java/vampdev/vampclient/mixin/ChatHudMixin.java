@@ -38,7 +38,7 @@ public abstract class ChatHudMixin implements IChatHud {
 
     private static final Pattern METEOR_PREFIX_REGEX = Pattern.compile("^\\s{0,2}(<[0-9]{1,2}:[0-9]{1,2}>\\s)?\\[Meteor\\]");
     private static final Pattern BARITONE_PREFIX_REGEX = Pattern.compile("^\\s{0,2}(<[0-9]{1,2}:[0-9]{1,2}>\\s)?\\[Baritone\\]");
-    private static final Identifier METEOR_CHAT_ICON = new Identifier("vamp", "textures/icons/chat/meteor.png");
+    private static final Identifier METEOR_CHAT_ICON = new Identifier("vamp", "textures/icons/chat/vamp.png");
     private static final Identifier BARITONE_CHAT_ICON = new Identifier("vamp", "textures/icons/chat/baritone.png");
 
     @Shadow @Final private List<ChatHudLine<OrderedText>> visibleMessages;
