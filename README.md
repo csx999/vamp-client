@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="![image](https://i.imgur.com/xuGU2yj.png)" alt="vamp-client-logo" width="20%"/>
+<img src="https://i.imgur.com/xuGU2yj.png" alt="vamp-client-logo" width="20%"/>
 </p>
 
 <h1 align="center">Meteor Client</h1>
