@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://i.imgur.com/F2uiUVQ.png" alt="vamp-client-logo" width="20%"/>
+<img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/04/Bat_%28Dungeons%29.gif" alt="vamp-client-logo" width="20%"/>
 </p>
 
 <h1 align="center">Meteor Client</h1>
