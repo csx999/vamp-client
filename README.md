@@ -5,7 +5,7 @@
 
 <h1 align="center">Vamp Client</h1>
 
-<p align="center">Minecraft Fabric Utility Mod for the latest Minecraft release.</p>
+<p align="center">Minecraft Fabric Utility Mod for the latest Minecraft release.<br>A Meteor-Client Fork.</p>
 
 <div align="center">
     <a href="https://discord.gg/bBGQZvd"><img src="https://img.shields.io/discord/689197705683140636?logo=discord" alt="Discord"/></a>
